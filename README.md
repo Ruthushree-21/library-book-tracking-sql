@@ -74,12 +74,7 @@ It simulates a real-world library system used in schools, universities, and digi
 - Category-wise trends
 - Reading behavior analysis
 - Library usage patterns
-## 🚀 How to Run
-1. Open SQL Server Management Studio (SSMS)
-2. Run `schema.sql`
-3. Run `data.sql`
-4. Run `queries.sql`
-5. View outputs
+
 ## 📌 Conclusion
 This project demonstrates how SQL can be used to build a real-world library management system with analytics and recommendation features.
 
